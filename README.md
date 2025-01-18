@@ -1,4 +1,4 @@
-# Методичка по Андройд Студио by pepega
+# Методичка по Anroid Studio by pepega
 Это методичка будет расчитанно на то, чтобы рассказать вам про основы работы в Android Studio (Это НЕ гайд по коддингу, а именно про ОСНОВЫ РАБОТЫ в приложении)
 1. (сслыка где рассказывают про вводную часть (тз от андроедов) - https://www.geeksforgeeks.org/a-complete-guide-to-learn-android-studio-for-app-development/?ysclid=m5xo9kupqv623421286)
 2. (ссылка где рассказывется про использование SQLite - https://developer.android.com/training/data-storage/sqlite?hl=ru#DefineContract)
